@@ -1,11 +1,16 @@
+:root {
+--orange: rgb(255, 207, 148);
+--darkGray: rgb(55, 55, 60);
+}
+
 body {
-  background-color: rgb(255, 207, 148);
+  background-color: var(--orange);
 }
 
 h1 {
-  color: black;
+  color: var(--darkGray);
 }
 
 p {
-  color: black;
+  color: var(--darkGray);
 }
