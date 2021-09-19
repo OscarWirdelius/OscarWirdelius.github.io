@@ -1,11 +1,11 @@
 body {
-  background-color: powderblue;
+  background-color: rgb(255, 207, 148);
 }
 
 h1 {
-  color: blue;
+  color: black;
 }
 
 p {
-  color: red;
+  color: black;
 }
